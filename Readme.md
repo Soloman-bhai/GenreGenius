@@ -70,4 +70,3 @@ Prediction history is stored in `prediction_history.json`.
 👋 Happy Music Classifying!
 ===========================
 
-Made with ❤️ by GenreGenius AI
